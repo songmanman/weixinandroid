@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+encoding//src/net/sourceforge/simcpux=GBK
+encoding//src/net/sourceforge/simcpux/AppRegister.java=GBK
+encoding//src/net/sourceforge/simcpux/Constants.java=GBK
+encoding//src/net/sourceforge/simcpux/GetFromWXActivity.java=GBK
+encoding//src/net/sourceforge/simcpux/ScanQRCodeLoginActivity.java=GBK
+encoding//src/net/sourceforge/simcpux/SendToWXActivity.java=GBK
+encoding//src/net/sourceforge/simcpux/wxapi/WXEntryActivity.java=GBK
+encoding/<project>=GBK
